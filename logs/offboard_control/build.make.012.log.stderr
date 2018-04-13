@@ -1,0 +1,13 @@
+[01m[K/home/kasun/catkin_ws/src/PX4_ROS_packages/offboard_control/src/offb_node.cpp:[m[K In function '[01m[Kint main(int, char**)[m[K':
+[01m[K/home/kasun/catkin_ws/src/PX4_ROS_packages/offboard_control/src/offb_node.cpp:39:19:[m[K [01;31m[Kerror: [m[K'[01m[Kradius[m[K' was not declared in this scope
+         point_x = radius * cos(ctr * 3.1415926 / 180.0) + center_x;
+[01;32m[K                   ^[m[K
+[01m[K/home/kasun/catkin_ws/src/PX4_ROS_packages/offboard_control/src/offb_node.cpp:39:59:[m[K [01;31m[Kerror: [m[K'[01m[Kcenter_x[m[K' was not declared in this scope
+         point_x = radius * cos(ctr * 3.1415926 / 180.0) + center_x;
+[01;32m[K                                                           ^[m[K
+[01m[K/home/kasun/catkin_ws/src/PX4_ROS_packages/offboard_control/src/offb_node.cpp:40:59:[m[K [01;31m[Kerror: [m[K'[01m[Kcenter_y[m[K' was not declared in this scope
+         point_y = radius * cos(ctr * 3.1415926 / 180.0) + center_y;
+[01;32m[K                                                           ^[m[K
+make[2]: *** [CMakeFiles/offb_node.dir/src/offb_node.cpp.o] Error 1
+make[1]: *** [CMakeFiles/offb_node.dir/all] Error 2
+make: *** [all] Error 2

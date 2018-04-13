@@ -1,0 +1,5 @@
+[01m[K/home/kasun/catkin_ws/src/PX4_ROS_packages/offboard_control/src/offb_node.cpp:15:19:[m[K [01;31m[Kfatal error: [m[Kiosteam: No such file or directory
+compilation terminated.
+make[2]: *** [CMakeFiles/offb_node.dir/src/offb_node.cpp.o] Error 1
+make[1]: *** [CMakeFiles/offb_node.dir/all] Error 2
+make: *** [all] Error 2

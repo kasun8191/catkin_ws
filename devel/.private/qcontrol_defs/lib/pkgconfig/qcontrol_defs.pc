@@ -1,0 +1,8 @@
+prefix=/home/kasun/catkin_ws/devel/.private/qcontrol_defs
+
+Name: qcontrol_defs
+Description: Description of qcontrol_defs
+Version: 1.0.0
+Cflags: -I/home/kasun/catkin_ws/devel/.private/qcontrol_defs/include
+Libs: -L/home/kasun/catkin_ws/devel/.private/qcontrol_defs/lib 
+Requires: message_runtime std_msgs geometry_msgs

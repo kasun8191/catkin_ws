@@ -1,0 +1,7 @@
+[01m[K/home/kasun/catkin_ws/src/PX4_ROS_packages/offboard_control/src/offb_node.cpp:[m[K In function '[01m[Kint main(int, char**)[m[K':
+[01m[K/home/kasun/catkin_ws/src/PX4_ROS_packages/offboard_control/src/offb_node.cpp:73:6:[m[K [01;31m[Kerror: [m[Kexpected '[01m[K;[m[K' before '[01m[Kpoint_x[m[K'
+      point_x = radius * cos(ctr * 3.1415926f / 180.0f) + center_x;
+[01;32m[K      ^[m[K
+make[2]: *** [CMakeFiles/offb_node.dir/src/offb_node.cpp.o] Error 1
+make[1]: *** [CMakeFiles/offb_node.dir/all] Error 2
+make: *** [all] Error 2

@@ -1,0 +1,8 @@
+prefix=/home/kasun/catkin_ws/devel/.private/wiimote
+
+Name: wiimote
+Description: Description of wiimote
+Version: 1.11.0
+Cflags: -I/home/kasun/catkin_ws/devel/.private/wiimote/include -I/home/kasun/catkin_ws/src/PX4_ROS_packages/joystick_drivers/wiimote/include
+Libs: -L/home/kasun/catkin_ws/devel/.private/wiimote/lib 
+Requires: geometry_msgs sensor_msgs std_msgs std_srvs rospy roscpp roslib genmsg

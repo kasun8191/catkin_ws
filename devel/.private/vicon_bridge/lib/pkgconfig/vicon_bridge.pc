@@ -1,0 +1,8 @@
+prefix=/home/kasun/catkin_ws/devel/.private/vicon_bridge
+
+Name: vicon_bridge
+Description: Description of vicon_bridge
+Version: 1.0.1
+Cflags: -I/home/kasun/catkin_ws/devel/.private/vicon_bridge/include
+Libs: -L/home/kasun/catkin_ws/devel/.private/vicon_bridge/lib 
+Requires: dynamic_reconfigure geometry_msgs message_runtime roscpp

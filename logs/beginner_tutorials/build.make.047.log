@@ -1,0 +1,13 @@
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target beginner_tutorials_generate_messages_cpp
+[  0%] Built target beginner_tutorials_generate_messages_py
+[ 20%] Built target beginner_tutorials_generate_messages_eus
+[ 20%] Built target beginner_tutorials_generate_messages_nodejs
+[ 20%] Built target beginner_tutorials_generate_messages_lisp
+[ 60%] Built target listener
+[100%] Built target talker
+[100%] Built target beginner_tutorials_generate_messages

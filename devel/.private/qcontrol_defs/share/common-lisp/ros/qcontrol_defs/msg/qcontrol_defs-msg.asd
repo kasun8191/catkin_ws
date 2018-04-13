@@ -1,0 +1,28 @@
+
+(cl:in-package :asdf)
+
+(defsystem "qcontrol_defs-msg"
+  :depends-on (:roslisp-msg-protocol :roslisp-utils :geometry_msgs-msg
+)
+  :components ((:file "_package")
+    (:file "AccControl" :depends-on ("_package_AccControl"))
+    (:file "_package_AccControl" :depends-on ("_package"))
+    (:file "AttControl" :depends-on ("_package_AttControl"))
+    (:file "_package_AttControl" :depends-on ("_package"))
+    (:file "ConstraintAxis" :depends-on ("_package_ConstraintAxis"))
+    (:file "_package_ConstraintAxis" :depends-on ("_package"))
+    (:file "ConstraintValue" :depends-on ("_package_ConstraintValue"))
+    (:file "_package_ConstraintValue" :depends-on ("_package"))
+    (:file "PVA" :depends-on ("_package_PVA"))
+    (:file "_package_PVA" :depends-on ("_package"))
+    (:file "PosControl" :depends-on ("_package_PosControl"))
+    (:file "_package_PosControl" :depends-on ("_package"))
+    (:file "QuadState" :depends-on ("_package_QuadState"))
+    (:file "_package_QuadState" :depends-on ("_package"))
+    (:file "Trajectory" :depends-on ("_package_Trajectory"))
+    (:file "_package_Trajectory" :depends-on ("_package"))
+    (:file "VelControl" :depends-on ("_package_VelControl"))
+    (:file "_package_VelControl" :depends-on ("_package"))
+    (:file "WayPoints" :depends-on ("_package_WayPoints"))
+    (:file "_package_WayPoints" :depends-on ("_package"))
+  ))

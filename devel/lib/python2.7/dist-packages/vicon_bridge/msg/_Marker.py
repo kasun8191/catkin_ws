@@ -1,0 +1,1 @@
+/home/kasun/catkin_ws/devel/.private/vicon_bridge/lib/python2.7/dist-packages/vicon_bridge/msg/_Marker.py

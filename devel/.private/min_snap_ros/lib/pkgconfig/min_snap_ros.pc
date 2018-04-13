@@ -1,0 +1,8 @@
+prefix=/home/kasun/catkin_ws/devel/.private/min_snap_ros
+
+Name: min_snap_ros
+Description: Description of min_snap_ros
+Version: 3.0.0
+Cflags: 
+Libs: -L/home/kasun/catkin_ws/devel/.private/min_snap_ros/lib 
+Requires: geometry_msgs roscpp rospy std_msgs message_runtime qcontrol_defs

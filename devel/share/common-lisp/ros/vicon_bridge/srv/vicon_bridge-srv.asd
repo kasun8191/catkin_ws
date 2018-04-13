@@ -1,0 +1,1 @@
+/home/kasun/catkin_ws/devel/.private/vicon_bridge/share/common-lisp/ros/vicon_bridge/srv/vicon_bridge-srv.asd

@@ -1,0 +1,1 @@
+/home/kasun/catkin_ws/devel/.private/min_snap_ros/share/min_snap_ros/cmake/min_snap_rosConfig-version.cmake

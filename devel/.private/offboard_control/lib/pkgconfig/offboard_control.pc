@@ -1,0 +1,8 @@
+prefix=/home/kasun/catkin_ws/devel/.private/offboard_control
+
+Name: offboard_control
+Description: Description of offboard_control
+Version: 2.0.0
+Cflags: 
+Libs: -L/home/kasun/catkin_ws/devel/.private/offboard_control/lib 
+Requires: geometry_msgs mavros_msgs roscpp rospy std_msgs sensor_msgs qcontrol_defs
