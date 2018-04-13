@@ -1,0 +1,7 @@
+PX4_ROS_packages/min_snap_ros
+/home/kasun/catkin_ws/devel/.private/min_snap_ros/lib/libmin_snap.so /home/kasun/catkin_ws/devel/lib/libmin_snap.so
+/home/kasun/catkin_ws/devel/.private/min_snap_ros/lib/min_snap_ros/test_solver /home/kasun/catkin_ws/devel/lib/min_snap_ros/test_solver
+/home/kasun/catkin_ws/devel/.private/min_snap_ros/lib/min_snap_ros/min_snap_ros_node /home/kasun/catkin_ws/devel/lib/min_snap_ros/min_snap_ros_node
+/home/kasun/catkin_ws/devel/.private/min_snap_ros/lib/pkgconfig/min_snap_ros.pc /home/kasun/catkin_ws/devel/lib/pkgconfig/min_snap_ros.pc
+/home/kasun/catkin_ws/devel/.private/min_snap_ros/share/min_snap_ros/cmake/min_snap_rosConfig-version.cmake /home/kasun/catkin_ws/devel/share/min_snap_ros/cmake/min_snap_rosConfig-version.cmake
+/home/kasun/catkin_ws/devel/.private/min_snap_ros/share/min_snap_ros/cmake/min_snap_rosConfig.cmake /home/kasun/catkin_ws/devel/share/min_snap_ros/cmake/min_snap_rosConfig.cmake
